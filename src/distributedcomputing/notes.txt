@@ -1,0 +1,6 @@
+TO do:
+	- Understand the workflow
+	- Understand if the task is distributed correctly or not
+	- Understand how to expand on genome logic
+	- Expand to work on multiple hosts
+	- Implement load balancing, etc

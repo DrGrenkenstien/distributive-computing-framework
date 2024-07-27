@@ -1,0 +1,12 @@
+{
+  "sequences": [
+    {
+      "id": 1,
+      "reads": ["ATTAGACCTG", "CCTGCCGGAA", "AGACCTGCCG", "GCCGGAATAC"]
+    },
+    {
+      "id": 2,
+      "reads": ["TAGCATGACA", "GACATCGTAT", "ATGACATCGT", "CATGACACGT"]
+    }
+  ]
+}
